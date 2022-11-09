@@ -23,6 +23,7 @@ I am a Master's degree student in Computer Science at Uppsala University in Swed
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
 
 <img src="https://play-lh.googleusercontent.com/xeuSfQHt8wEb-JdcXLtReGF-KO8_Rd2UMOL0vSB6bS9qlxdAGQ0VR4mM9wVeEb76EA" alt="pytorch" width="40" height="40"/><img src="https://www.saashub.com/images/app/service_logos/50/1b3315eb51ff/large.png?1558168828" alt="pytorch" width="40" height="40"/>
+<img src="[https://www.saashub.com/images/app/service_logos/50/1b3315eb51ff/large.png?1558168828](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSystemVerilog&psig=AOvVaw0zdKNvlePHfjU8_NaeU5b5&ust=1668086702399000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPismayZofsCFQAAAAAdAAAAABAE)" alt="pytorch" width="40" height="40"/>
 
 
 
