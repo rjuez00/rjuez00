@@ -27,7 +27,7 @@ I am a Master's degree student in Computer Science at Uppsala University in Swed
 
 
 
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://uxwing.com/wp-content/themes/uxwing/download/04-file-folder-type/bat-file.png" alt="windows_batch" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://www.pc-freak.net/images/bat-file-icon-windows-read-variable.png" alt="windows_batch" width="40" height="40"/> 
 
 
 <details>
