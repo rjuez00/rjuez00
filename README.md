@@ -11,9 +11,9 @@ I am a Master's degree student in Embedded Systems at Uppsala University in Swed
 
 #### Connect with me
 
-- [Resume Website](https://rjuez00.github.io/) :open_book::pen:
 - [LinkedIn](https://www.linkedin.com/in/rjuezhdez/) :point_left:
 - [HuggingFace](https://huggingface.co/rjuez00) :hugs:
+- [Resume Website](https://rjuez00.github.io/) :open_book::pen:
 
 #### Languages and Tools
 
