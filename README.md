@@ -1,6 +1,6 @@
 ### Hi, I'm Rodrigo 👋:man_technologist:
 
-I am a Master's degree student in Computer Science at Uppsala University in Sweden.
+I am a Master's degree student in Embedded Systems at Uppsala University in Sweden.
 
 <details>
   <summary style="margin-bottom: 1rem; margin-top: 1rem;"> GitHub Stats :chart_with_upwards_trend:</summary>
